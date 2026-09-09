@@ -25,7 +25,7 @@ const Jobs = () => {
   }, []);
 
   if (loading) {
-    return <h2> Loading jobs .... </h2>;
+    return <h2> Loading jobs ...... </h2>;
   }
 
   return (

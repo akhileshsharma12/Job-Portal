@@ -1,0 +1,193 @@
+
+
+.post-job-container {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f5f7fa;
+  padding-bottom: 60px;
+}
+
+
+
+.post-job-title {
+  background-color: #0f1941;
+  color: white;
+  padding: 3.5% 10%;
+}
+
+.post-job-title h2 {
+  font-size: 38px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 0 10px;
+  font-weight: 600;
+}
+
+.post-job-title p {
+  margin: 0;
+  font-size: 20px;
+  color: #dceaf1;
+}
+
+
+
+.post-job-main {
+  width: 84%;
+  max-width: 1250px;
+  margin: 50px auto;
+
+  display: grid;
+  grid-template-columns: 35% 65%;
+
+  background-color: white;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.08);
+}
+
+
+
+.post-job-info {
+  background-color: #27406e;
+  color: white;
+
+  padding: 45px 35px;
+}
+
+.post-job-info h2 {
+  font-size: 28px;
+  line-height: 1.3;
+  margin-bottom: 20px;
+}
+
+.post-job-info > p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #e1edf2;
+}
+
+
+.job-benefits {
+  margin-top: 45px;
+}
+
+.job-benefits div {
+  margin-bottom: 30px;
+}
+
+.job-benefits h3 {
+  font-size: 20px;
+  margin: 0 0 5px;
+}
+
+.job-benefits p {
+  margin: 0;
+  font-size: 14px;
+  color: #dceaf1;
+}
+
+
+
+.post-job-form-container {
+  padding: 45px;
+}
+
+
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px;
+  margin-bottom: 25px;
+}
+
+
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-field label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #263746;
+  margin-bottom: 8px;
+}
+
+.form-field input,
+.form-field select,
+.form-field textarea {
+  width: 100%;
+
+  padding: 13px 14px;
+
+  border: 1px solid #c8d1d7;
+
+  font-size: 14px;
+
+  outline: none;
+
+  background-color: white;
+
+  transition: 0.2s;
+}
+
+
+.form-field input:focus,
+.form-field select:focus,
+.form-field textarea:focus {
+  border-color: #0077a8;
+  box-shadow: 0 0 0 2px rgba(0, 119, 168, 0.08);
+}
+
+
+
+.form-field textarea {
+  resize: vertical;
+  min-height: 140px;
+  font-family: inherit;
+  line-height: 1.5;
+}
+
+
+
+.full-width {
+  margin-bottom: 25px;
+}
+
+
+
+.form-field small {
+  margin-top: 7px;
+  color: #777;
+  font-size: 12px;
+}
+
+
+
+.post-job-submit {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.post-job-submit button {
+  background-color: #2175d9;
+  color: white;
+
+  border: none;
+
+  padding: 14px 35px;
+
+  font-size: 15px;
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition: 0.2s;
+}
+
+.post-job-submit button:hover {
+  background-color: #005f86;
+}
+
+
+

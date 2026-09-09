@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "Akhilesh Sharma",
+      "email": "akhileshsh421@gmail.com",
+      "gender": "Male",
+      "password": "12345",
+      "id": "UeMzqduh-gQ"
+    },
+    {
+      "name": "Nikhil Sharma",
+      "email": "akhileshsh41@gmail.com",
+      "gender": "Male",
+      "password": "mjbfbf",
+      "id": "9d22LstIADM"
+    },
+    {
+      "name": "voqef@mailinator.com",
+      "email": "kuvy@mailinator.com",
+      "gender": "vygaz@mailinator.com",
+      "password": "pyqihic@mailinator.com",
+      "id": "UNnje8S6CtA"
+    }
+  ],
+  "posts": [
+    {
+      "jobTitle": "Voluptatum officiis ",
+      "company": "Rosario and Stuart Traders",
+      "location": "Labore qui iure volu",
+      "jobType": "Contract",
+      "salary": "Non deleniti eos su",
+      "experience": "3-5 Years",
+      "description": "Quo laboriosam occa",
+      "skills": "Consectetur nemo max",
+      "id": "KafpaC-ye0w"
+    },
+    {
+      "jobTitle": "Consequatur quisquam",
+      "company": "Spears Berg Associates",
+      "location": "Impedit culpa eius",
+      "jobType": "Contract",
+      "salary": "Non aliqua Est ut e",
+      "experience": "3-5 Years",
+      "description": "Unde quisquam conseq",
+      "skills": "Rerum exercitation o",
+      "id": "5l3KZjSN4Ro"
+    },
+    {
+      "jobTitle": "Aliquam Nam sit qui ",
+      "company": "Leon and Sullivan Associates",
+      "location": "Non sint in veniam ",
+      "jobType": "Part Time",
+      "salary": "Qui fugit vero ea b",
+      "experience": "Fresher",
+      "description": "Eu voluptatum autem ",
+      "skills": "Sit mollit tempora q",
+      "id": "W340jK0uY24"
+    },
+    {
+      "jobTitle": "Quos sint eos consec",
+      "company": "Christian and Leblanc Traders",
+      "location": "In laudantium sed e",
+      "jobType": "Full Time",
+      "salary": "Harum debitis commod",
+      "experience": "1-2 Years",
+      "description": "Eaque eum repellendu",
+      "skills": "Et ea sint et nobis",
+      "id": "f0QR-w87g84"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

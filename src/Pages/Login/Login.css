@@ -1,0 +1,59 @@
+.login-container .login-main {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.login-container .login-title {
+    padding: 2.5rem 10rem;
+    background-color: #2175d9;
+    color: white;
+}
+.login-title h2 {
+    font-family: serif;
+    font-size: 38px;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.login-main form {
+    width: 350px;
+}
+
+.login-main form .login-field-1, .login-field-2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-block: 20px;
+}
+
+.login-main .remember .remember-field {
+    display: flex !important;
+    gap: 10px;
+    align-items: start;
+    font-size: 21px;
+    margin-block: 20px;
+}
+
+.login-main .remember .submit button {
+    width: 100%;
+}
+
+
+.login-main {
+    display: flex;
+    flex-direction: column;
+}
+
+.no-acc-sec {
+    margin-top: 15px;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-family:  Times, serif;
+}
+.no-acc-sec p a {
+    color: #2175d9;
+    
+}

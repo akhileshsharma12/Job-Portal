@@ -1,0 +1,71 @@
+.register-container {
+}
+
+.register-container .register-title {
+    padding: 2.5rem 10rem;
+    background-color: #2175d9;
+}
+
+.register-container .register-main {
+    padding: 0rem 10rem;
+    display: flex;
+}
+
+.register-main .register-main-1 {
+    width: 50%;
+    margin-top: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.register-main .register-main-1 h2 {
+    font-size: 30px;
+}
+.register-main .register-main-1 p {
+    margin-top: 15px;
+    width: 400px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.register-main .register-main-2 {
+    width: 40%;
+}
+.register-main .register-main-2 form div {
+    margin-block: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.register-main .register-main-2 form div input {
+    padding: 18px;
+}
+
+.register-main .register-main-2 .terms {
+    margin-top: 10px;
+}
+.register-main .register-main-2 .terms div {
+    display: flex;
+    gap: 10px;
+    align-items: start;
+    margin-block: 10px;
+}
+.register-main .register-main-2 .terms div input {
+    font-size: 22px;
+}
+.register-main .register-main-2 .terms div p {
+    font-size: 22px;
+    font-family: 'Times New Roman, Times, serif';
+}
+
+.register-title h2 {
+    font-family: serif;
+    font-size: 38px;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.register-main .register-main-2 .terms .login-class {
+    font-size: 19px;
+}
+
+.already-acc-sec p a {
+    color: #2175d9;
+}
